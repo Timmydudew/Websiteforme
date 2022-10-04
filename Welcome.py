@@ -1,5 +1,8 @@
+import time
+import datetime
 import os
-import
+import subprocess
+
 os.system('screenfetch')
 print('\033[1m' + '\033[91m'+'     ///   CREATED BY Timmy   ///')
 def wish():
@@ -15,3 +18,4 @@ def wish():
          subprocess.call(["termux-tts-speak","welcome sir how may i help you"])
 wish()
 time.sleep(1)
+os.system("python3 Ai.py")
