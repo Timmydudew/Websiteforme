@@ -86,10 +86,10 @@ def system():
      elif "age" in inp:
           subprocess.call(["termux-tts-speak","I am 1 year old sir"])
        
-   elif "who am i" in inp:
-        
-     subprocess.call(["termux-tts-speak","you are my owner"])
-     
+     elif "who am i" in inp:     
+          subprocess.call(["termux-tts-speak","you are my owner"])
+     elif "shut down" or "close" in inp:
+         os.system("cd $HOME")
      
      
      
