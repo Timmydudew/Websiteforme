@@ -5,7 +5,7 @@
 <a href="#"><img title="JARVIS-AI" src="https://img.shields.io/badge/JARVIS-AI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/"><img title="Author" src="https://img.shields.io/badge/Author-Timmydudew-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Timmydudew/followers"><img title="Author" src="https://img.shields.io/badge/Author-Timmydudew-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/mrjuice01/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrjuice01?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrjuice01"><img title="Stars" src="https://img.shields.io/github/stars/mrjuice01/mrjuice01.?color=blue&style=flat-square"></a>
