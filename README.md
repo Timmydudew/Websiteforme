@@ -18,8 +18,21 @@
 <a href="https://github.com/Ajmal-Achu/Wizard-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </P>
 </div>
----
+<br>
+<br>
 
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
+```bash
+> apt update
+> apt upgrade
+> pkg install python
+> pkg install git -y
+> git clone https://github.com/Timmydudew/JARVIS-AI
+> cd JARVIS-AI
+> python3 setup.py
+```
+</details>
 
 <div align="center">
 
@@ -28,3 +41,5 @@
 <!---->
 # Thanks to
 <a href="https://github.com/Timmydudew"><img src="https://github.com/Timmydudew.png?size=100" width="100" height="100">
+</div>
+<p>pls follow me on my github</p>
