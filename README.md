@@ -30,7 +30,7 @@
 > pkg install git -y
 > git clone https://github.com/Timmydudew/JARVIS-AI
 > cd JARVIS-AI
-> python3 setup.py
+> python3 Welcome.py
 ```
 </details>
 
